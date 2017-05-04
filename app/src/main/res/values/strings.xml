@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone_num_generator</string>
+    <string name="button">생성!!</string>
+    <string name ="Typeyourpre">Type your Prefix</string>
+    <string name="Typeyournum">Type Number here</string>
+    <string name="TypeyourGroup">Type Group name </string>
+    <string name="prefix">Prefix</string>
+    <string name="howmany">몇개?</string>
+    <string name="preeaxm">\'마케팅\'으로 지정시 마케팅_1 이런식으로 저장됨 </string>
+    <string name="copyright">Made by 삭삭</string>
+</resources>
